@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello
 
 To start your Phoenix server:
@@ -18,3 +19,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# phx_practice
+Practice of making Phoenix Framework applications.
+>>>>>>> a11d7eb7de700474f38b3a64caae39a4781fee75
